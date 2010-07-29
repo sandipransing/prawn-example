@@ -5,6 +5,8 @@
     - Header line Breaks
     - Stroke line
     - Images
+    - Table
+    - Links
 
 # Sandip Ransing [FunOnRails]
     Email[san2821@gmail.com]
