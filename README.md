@@ -2,7 +2,9 @@
 
     - Prawn Rocks
     - Font and Text options with custom font
-    - Header
+    - Header line Breaks
+    - Stroke line
+    - Images
 
 # Sandip Ransing [FunOnRails]
     Email[san2821@gmail.com]
